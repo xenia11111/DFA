@@ -3,7 +3,7 @@
 #include<vector>
 #include<map>
 #include<string>
-using namespace::std;
+using namespace std;
 ifstream I("input.txt");
 ofstream O("output.txt");
 struct State {
